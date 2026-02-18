@@ -58,14 +58,6 @@ Establecen las dinámicas de ENSEÑANZA-APRENDIZAJE dentro del curso y encaminan
 Esta información se extrae de la carta descriptiva, por esa razón es importante consultarla antes de redactar esta parte. Ten presente que la versión en Word contiene el objetivo general y los específicos; mientras que la versión en Excel contiene los resultados de aprendizaje.
 
 -->
-## Resultados de Aprendizaje
-
-1. **Diseñar y aplicar prompt templates y cadenas de ejecución en LangChain:** los estudiantes serán capaces de crear instrucciones reutilizables (prompt templates) y encadenarlas utilizando el Lenguaje de Expresión de LangChain (LCEL), especificando formatos de salida con output parsers para interactuar eficazmente con modelos de lenguaje.
-
-2. **Desarrollar chatbots con gestión de memoria contextual:** los estudiantes podrán construir chatbots funcionales utilizando LangChain, integrando memorias para almacenar y gestionar información contextual.
-
-3. **Construir y desplegar sistemas RAG para interacción con documentos:** los estudiantes estarán capacitados para integrar componentes como loaders de documentos, retrievers y bases de datos vectoriales en LangChain, creando sistemas de Retrieval-Augmented Generation (RAG) que permitan conversar con archivos PDF.
-
 <!--
 Pregunta orientadora
 Es un interrogante que sirve como punto de partida para la exploración del tema central del curso, y está diseñado para dirigir la atención del estudiante, reconociendo de qué manera se apropia de ese saber. A través de esta pregunta, el conocimiento se logra concretar en una respuesta que recoge la esencia del curso, guiando al estudiante hacia el descubrimiento de conceptos importantes o la resolución de problemas dentro de un contexto determinado.
