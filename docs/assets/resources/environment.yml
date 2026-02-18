@@ -1,4 +1,4 @@
-name: Pricipios_de_IA_env
+name: llm-langchain-env
 channels:
   - conda-forge
 dependencies:

@@ -79,7 +79,7 @@ La siguiente imagen es la respuesta de ChatGPT al prompt:
 
 ![alt text](image.png)
 
-*Figura 1: Representación visual generada por ChatGPT sobre la vida del autor del diplomado.*
+*Figura 1: Representación visual generada por ChatGPT sobre la vida del autor del curso.*
 
 ¿Qué tan parecida es esta imagen a tu vida en tu caso? ¿Te sorprende que ChatGPT tenga tanta información sobre tu vida y tus gustos o todo lo contrario? ¿Qué opinas que va a pasar con los datos en un futuro donde todo es asistido por IA? ¿Le daremos a las IA la información sensible de las personas y las empresas?
 
@@ -105,7 +105,7 @@ Ejemplos:
 Antes de empezar a trabajar con los módulos del curso, debes configurar tu sistema para poder ejecutar los ejemplos correctamente.
 
 La forma más sencilla de hacerlo es descargando el archivo de configuración [📄environment.yml](assets/resources/environment.yml)
-, el cual creará automáticamente un entorno de Conda llamado `DiplomadoIA_env` con todas las dependencias necesarias para el curso.
+, el cual creará automáticamente un entorno de Conda llamado `llm-langchain-env` con todas las dependencias necesarias para el curso.
 
 ### Requisitos previos
 
@@ -124,7 +124,7 @@ conda env create -f environment.yml
 Para activar el entorno en tu terminal, ejecuta:
 
 ```bash
-conda activate diplomado_IA
+conda activate llm-langchain-env
 ```
 A partir de aquí, cualquier comando que ejecutes usará las dependencias definidas para el curso.
 
@@ -137,13 +137,13 @@ A partir de aquí, cualquier comando que ejecutes usará las dependencias defini
     1. Abre **VS Code**.
     2. Abre la carpeta del proyecto o el notebook deseado.
     3. En la parte superior derecha del notebook, haz clic en la selección de kernel.
-    4. Elige el kernel correspondiente al entorno `diplomado_IA`.  
+    4. Elige el kernel correspondiente al entorno `llm-langchain-env`.  
     Si no aparece, reinicia VS Code o asegúrate de haber activado el entorno desde la terminal integrada.
     5. Comienza a ejecutar celdas normalmente.
 
 !!! tip
     Puedes asegurarte de que el entorno se registre correctamente como kernel ejecutando en la terminal:
     ```bash
-    python -m ipykernel install --user --name diplomado_IA --display-name "Python (diplomado_IA)"
+    python -m ipykernel install --user --name llm-langchain-env --display-name "Python (llm-langchain-env)"
     ```
 

@@ -5,7 +5,7 @@
 
 ## Introducción al módulo
 
-Bienvenidos al segundo módulo de nuestro diplomado sobre construcción de aplicaciones asistidas por LLM. En el primer módulo aprendiste a confeccionar instrucciones reutilizables para LLM, los prompt templates, y exploraste cómo acoplar estas instrucciones en cadenas con especificadores de formato llamados output parsers. Sin embargo, estas cadenas de ejecución eran cadenas de un solo turno de interacción entre la IA y el usuario humano. En este módulo aprenderás a darle memoria y contexto a tus cadenas de ejecución. Profundizaremos aún más en el funcionamiento de las cadenas y como limitar su memoria en el contexto del LCEL. Finalmente, pondrás a prueba tu conocimiento creando un chatbot que asiste las labores de un médico realizando tareas secuenciales y que tiene como contexto en su memoria los datos específicos de un paciente.
+Bienvenidos al segundo módulo del curso de construcción de aplicaciones asistidas por LLM. En el primer módulo aprendiste a confeccionar instrucciones reutilizables para LLM, los prompt templates, y exploraste cómo acoplar estas instrucciones en cadenas con especificadores de formato llamados output parsers. Sin embargo, estas cadenas de ejecución eran cadenas de un solo turno de interacción entre la IA y el usuario humano. En este módulo aprenderás a darle memoria y contexto a tus cadenas de ejecución. Profundizaremos aún más en el funcionamiento de las cadenas y como limitar su memoria en el contexto del LCEL. Finalmente, pondrás a prueba tu conocimiento creando un chatbot que asiste las labores de un médico realizando tareas secuenciales y que tiene como contexto en su memoria los datos específicos de un paciente.
 
 ¡Comencemos!
 
