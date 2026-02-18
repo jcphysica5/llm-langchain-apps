@@ -16,8 +16,8 @@ El sitio desplegado está disponible en: **https://jcphysica5.github.io/llm-lang
 ### 1. Clonar el repositorio
 
 ```bash
-git clone git@github.com:jcphysica5/Principios_de_IA_repo.git
-cd Principios_de_IA_repo
+git clone git@github.com:jcphysica5/llm-langchain-apps.git
+cd llm-langchain-apps
 ```
 
 ### 2. Crear el entorno Conda
