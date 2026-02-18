@@ -71,7 +71,7 @@ La respuesta a esta pregunta se afianza o ejercita durante todo el proceso por m
 
 **Procura no emplear más de 200 palabras. 
 -->
-### Pregunta Orientadora
+
 
 La siguiente imagen es la respuesta de ChatGPT al prompt:
 
@@ -99,120 +99,6 @@ Ejemplos:
 ** Tanto el mapa del curso como cualquier gráfico de autoría propia y/o adaptado de otros autores deben entregarse en formato editable. 
 
 -->
-
-## Mapa del curso
-Estos son los módulos que conforman nuestro diploma:
-
-![Mapa del curso](assets/images/Mapa_DIPLOMA_LLM.png)
-
-<!-- Cronograma de actividades 
-Organiza las actividades y evidencias de aprendizaje que deben llevarse a cabo dentro del curso. Este cronograma incluye información sobre la secuencia de las actividades en cada módulo, la ubicación temporal (en qué semana se presentan) y los porcentajes correspondientes a las evidencias de aprendizaje.
-
-
-
-Diligencia el cuadro siguiendo las indicaciones que encontrarás en cada celda. 
-Recuerda la taxonomía y las definiciones establecidas en la carta descriptiva.
-Menciona las actividades y evidencias de aprendizaje que deberá realizar el estudiante durante el estudio del curso (bien sea de 2 o 3 es, según el caso).
-
-
-
- 
--->
-
-
-
-## Módulo 1: introducción a la Construcción de Aplicaciones con LLM
-- Fundamentos de modelos de lenguaje grandes (LLM) y su integración en flujos de software
-- Creación y uso de *prompt templates* para instrucciones reutilizables
-- Encadenamiento de instrucciones con el Lenguaje de Expresión de LangChain (LCEL)
-- Especificación de formatos de salida mediante *output parsers*
-
-## Módulo 2: Cadenas y Memoria
-- Desarrollo de chatbots funcionales con LangChain
-- Gestión de memoria contextual para mantener el historial de interacciones
-- Implementación práctica de un chatbot funcional
-
-## Módulo 3: Proyecto integrador: construcción y Despliegue de un Sistema RAG
-- Integración de *document loaders* para procesar archivos PDF
-- Uso de *retrievers* y bases de datos vectoriales para recuperación de información
-- Construcción de sistemas Retrieval-Augmented Generation (RAG)
-- Despliegue de una aplicación RAG para interacción conversacional con documentos PDF
-
-<!-- 
-
-Cronograma de actividades 
-Organiza las actividades y evidencias de aprendizaje que deben llevarse a cabo dentro del curso. Este cronograma incluye información sobre la secuencia de las actividades en cada , la ubicación temporal (en qué semana se presentan) y los porcentajes correspondientes a las evidencias de aprendizaje.
-
-
-
-Diligencia el cuadro siguiendo las indicaciones que encontrarás en cada celda. 
-Recuerda la taxonomía y las definiciones establecidas en la carta descriptiva.
-Menciona las actividades y evidencias de aprendizaje que deberá realizar el estudiante durante el estudio del curso (bien sea de 2 o 3 es, según el caso).
-
--->
-## Cronograma de actividades
-
-| Actividad de aprendizaje                                      | Evidencia de aprendizaje                               | Semana         | Ponderación |
-|---------------------------------------------------------------|--------------------------------------------------------|----------------|-------------|
-| Actividad de conocimientos previos                            | Actividad de conocimientos previos                      | Semana 1       | 0%          |
-| Reto formativo 1 y 2                                          | EA1: Templates y Output Parsers                         | Semanas 2 y 3  | 35%         |
-| Cadenas                                                      | EA2: Generación de Informes de Salud Utilizando Archivos CSV | Semanas 4 y 5  | 35%         |
-| Reto formativo: "Carga y división de archivos PDF"            | EA3: Chat con tus datos. Proyecto integrador            | Semanas 6, 7 y 8 | 30%         |
-| **Total**                                                     |                                                        |                | **100%**    |
-
-
-<!--
-### Actividad de refuerzo
-*Agrega el nombre de la actividad de refuerzo (cuando así se requiera).*
-  -->
-
-<!--
-Actividad de conocimientos previos
-Permite reconocer e identificar, mediante un foro o un cuestionario, cuánto conocen los estudiantes sobre los temas del curso.
-
-
-Esta actividad suele ser un foro o un cuestionario. Como experto temático, puedes definir cuál escoges. Por ejemplo:
-Cuestionario de preguntas con 4 opciones de respuesta (a, b, c, d)
-Debes proponer 15 preguntas básicas sobre los contenidos que se van a abordar, sin ningún porcentaje.
-Ofrece una realimentación a cada opción de respuesta.
-Las preguntas y respuestas del cuestionario deben presentarse en el formato Plantilla_Prueba Conocimientos previos_V1.docx.
-Foro
-A partir de una pregunta problematizadora o el análisis de un documento, se presentan planteamientos e instrucciones que conlleven a construcciones colectivas, bien sea, entre los mismos estudiantes o con el docente.
-La pregunta problematizadora debe ser diferente a lo planteado en la pregunta orientadora, pues debe percibir los conocimientos previos que tienen los estudiantes en relación con los contenidos que estudiarán.
-** Ten presente que la actividad de conocimientos previos no tiene ponderación.
-Nombre del foro / o nombre del cuestionario
-Escribe aquí el nombre de la actividad de conocimientos previos
-Objetivo del foro/ cuestionario
-(No modificar)
-Determinar los saberes previos sobre las temáticas que se abordarán durante la asignatura.
-Pregunta problematizadora del foro
-
-(en caso de escoger un cuestionario, entrega las preguntas en la plantilla indicada a manera de anexo)
-Escribe aquí la pregunta problematizadora que utilizarás para el foro.
-
-
-Anexo_No_X_Prueba_de_conocimientos_previos (si es el caso)
-
-
-
-Guion de video de presentación del curso
-Tiene como objetivo principal despertar la motivación del estudiante, ofreciéndole una visión clara del propósito y la intención del curso.
-Incluye elementos interesantes sobre la temática del curso, como una breve descripción del tema principal, su relevancia para el quehacer profesional, su aplicación en la actualidad y, especialmente, los beneficios para el estudiante. 
-Agrega elementos visuales que ayuden a captar la atención del estudiante y generar un impacto emocional positivo.
-Recuerda que este video debe motivar al estudiante a realizar el curso y explorar sus temáticas, de manera que participe activamente de su proceso de aprendizaje.
-Para la elaboración del guion, se cuenta con una plantilla con instrucciones detalladas sobre cómo se elabora. Diligencia la plantilla y adjúntala a manera de anexo. 
-
-
-Anexo_N°_X_Guión_de_Video_Presentación_Curso
-
-
-
-
--->
-
-
-## Actividad de conocimientos previos. Foro: Transformers y mecanismo de atención
-Como actividad de conocimientos previos, te invitamos a participar en el [foro de discusión](assets/resources/conociemientosPrevios_foro.md) sobre el funcionamiento de los LLM.
 
 ## Configuración del sistema antes de comenzar
 
