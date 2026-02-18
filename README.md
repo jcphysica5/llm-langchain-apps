@@ -1,68 +1,51 @@
-# Diplomado en Aplicaciones Asistidas por IA
+# Principios de Inteligencia Artificial
 
-This repository contains the documentation site for the *Diplomado en Aplicaciones Asistidas por IA*, built using MkDocs with the Material theme.
+Repositorio del sitio de documentación para el curso *Principios de Inteligencia Artificial*, construido con MkDocs y el tema Material.
 
-## Prerequisites
+El sitio desplegado está disponible en: **https://jcphysica5.github.io/Principios_de_IA_repo/**
 
-To set up and run the documentation site, you need the following:
+---
 
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
-- A terminal or command-line interface.
-- The `environment.yml` file (included in this repository) to create the Conda environment.
+## Requisitos previos
 
-## Installation Instructions
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) o [Anaconda](https://www.anaconda.com/products/distribution)
+- Terminal o interfaz de línea de comandos
 
-Follow these steps to set up the Conda environment and serve the MkDocs site locally:
+## Instalación y uso local
 
-1. **Clone the Repository** (if applicable):
-   ```bash
-   git clone git@github.com:introSoft-iud/Diplomado_IA_IUDigital.git
-   cd Diplomado_IA_IUDigital
-
-
-### Crear el Entorno Conda
-
-Usa el archivo `environment.yml` proporcionado para crear un entorno Conda llamado `mkdocs-diplomado`:
+### 1. Clonar el repositorio
 
 ```bash
-    conda env create -f environment.yml
+git clone git@github.com:jcphysica5/Principios_de_IA_repo.git
+cd Principios_de_IA_repo
 ```
 
-### Activar el Entorno Conda
+### 2. Crear el entorno Conda
 
-Activa el entorno para utilizar las dependencias instaladas:
+```bash
+conda env create -f environment.yml
+```
+
+### 3. Activar el entorno
 
 ```bash
 conda activate mkdocs-diplomado
 ```
-### Servir el Sitio MkDocs Localmente
 
-Ejecuta el servidor de desarrollo de MkDocs para visualizar el sitio localmente:
+### 4. Servir el sitio localmente
 
 ```bash
 mkdocs serve
 ```
-Abre tu navegador y navega a `http://127.0.0.1:8000` para ver el sitio.
 
-El sitio se recargará automáticamente cuando realices cambios en los archivos fuente.
+Abre `http://127.0.0.1:8000` en tu navegador. El sitio se recarga automáticamente al guardar cambios.
 
-### Generar el Sitio (Opcional)
-
-Para generar los archivos estáticos del sitio (por ejemplo, para su despliegue):
+### 5. Generar los archivos estáticos (opcional)
 
 ```bash
 mkdocs build
 ```
 
-### Sitio Desplegado
+## Despliegue
 
-El sitio ha sido desplegado y está disponible en la siguiente 
-
-[URL](https://introsoft-iud.github.io/Principios_de_IA_repo/)
-
-<!-- Para desplegar uso 
-
-mkdocs gh-deploy --remote-branch master   
-
-Ensure GitHub Pages is set to use the master branch and / (root) in Settings > Pages.
-   -->
+El despliegue se realiza automáticamente mediante GitHub Actions al hacer push a la rama `main`. El workflow se encuentra en `.github/workflows/deploy.yml`.
