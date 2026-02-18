@@ -29,7 +29,7 @@ conda env create -f environment.yml
 ### 3. Activar el entorno
 
 ```bash
-conda activate mkdocs-env
+conda activate llm-langchain
 ```
 
 ### 4. Servir el sitio localmente
