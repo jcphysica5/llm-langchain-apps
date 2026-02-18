@@ -10,7 +10,7 @@ Nombre del curso: Diplomado en construcción de Aplicaciones Asistidas por IA
 
 
 -->
-# Notas para el curso Principios de Inteligencia Artificial
+# Building AI-Powered Applications with LLMs
 
 ![Banner del curso](assets/images/Banner.png)
 

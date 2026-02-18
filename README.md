@@ -1,6 +1,6 @@
-# Principios de Inteligencia Artificial
+# Building AI-Powered Applications with LLMs
 
-Repositorio del sitio de documentación para el curso *Principios de Inteligencia Artificial*, construido con MkDocs y el tema Material.
+Repositorio del sitio de documentación para el curso *Building AI-Powered Applications with LLMs*, construido con MkDocs y el tema Material.
 
 El sitio desplegado está disponible en: **https://jcphysica5.github.io/Principios_de_IA_repo/**
 
