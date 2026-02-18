@@ -1,6 +1,6 @@
-# Building AI-Powered Applications with LLMs
+# Desarrollo de Aplicaciones con LLM y LangChain
 
-Repositorio del sitio de documentación para el curso *Building AI-Powered Applications with LLMs*, construido con MkDocs y el tema Material.
+Repositorio del sitio de documentación para el curso *Desarrollo de Aplicaciones con LLM y LangChain*, construido con MkDocs y el tema Material.
 
 El sitio desplegado está disponible en: **https://jcphysica5.github.io/Principios_de_IA_repo/**
 

@@ -10,7 +10,7 @@ Nombre del curso: Diplomado en construcción de Aplicaciones Asistidas por IA
 
 
 -->
-# Building AI-Powered Applications with LLMs
+# Desarrollo de Aplicaciones con LLM y LangChain
 
 ![Banner del curso](assets/images/Banner.png)
 
